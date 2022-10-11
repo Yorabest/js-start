@@ -20,7 +20,7 @@ console.log(k7);
 console.log(k8);
 
 console.log(Math.max(2, 34, 99, 3, 22, 36, 733, 18));
-console.log(Math.min(2, 34, 99, 3, 22, 36, 733, 18));
+console.log(Math.min(2, 34, 99, 3, 22, 6, 733, 18));
 
 const random = Math.random() * (19 - 3) + 3;
 console.log(random);
